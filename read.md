@@ -2,4 +2,4 @@
 
 CSS blur effect practise proyect
 
-![alt](https://readme.png)
+![](https://readme.png)
